@@ -14,7 +14,7 @@ How to Run/Complie
 4. type "./program"
 5. let's play
 
-Name: Supapat Srion 
+Name: Supapat Srion  <br />
 Email:Supapat.ne@gmail.com
 Tel.0957623897
 
