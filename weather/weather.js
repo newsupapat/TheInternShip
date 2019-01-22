@@ -14,7 +14,7 @@ fs.readFile(filename, 'utf8', function(err, data) {
 }
 else if(process.argv[2]=="weather.json"){
   var fs = require('fs')
-    , filename = weather.xml;
+    , filename = "weather.xml";
   fs.readFile(filename, 'utf8', function(err, data) {
     if (err) throw err;
   var options = {compact: true,ignoreComment: true, spaces: 4,ignoreDeclaration:true,instructionHasAttributes:true,indentAttributes:true,attributesKey:'value'};
