@@ -1,9 +1,6 @@
 
 var convert = require('xml-js');
-//       if (process.argv.length < 3) {
-//   console.log('node ' + process.argv[1] + ' FILE PLEASE');
-//   process.exit(1);
-// }
+
 if(process.argv[2]=="weather.xml"){
 var fs = require('fs')
   , filename = process.argv[2];
