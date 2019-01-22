@@ -1,0 +1,8 @@
+Name_of_Sport
+football,leg,
+swiming,pool,
+tennis,outdoor,
+tabletennis,table,
+badminton,Shuttlecock,
+football,leg,
+

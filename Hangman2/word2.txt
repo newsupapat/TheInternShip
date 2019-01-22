@@ -1,0 +1,6 @@
+Soft_DrinkBrand
+cocacola,red,
+sprite,green,
+rootbear,brown,
+fanta,many colours,
+maxi,honeylamon,
