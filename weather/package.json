@@ -1,0 +1,15 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "Welcome to Weather! =================== Convert XML->JSON ----------",
+  "main": "weather.js",
+  "scripts": {
+    "start" : "node weather.js weather.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Supapat",
+  "license": "MIT",
+  "dependencies": {
+    "xml-js": "^1.6.9"
+  }
+}
